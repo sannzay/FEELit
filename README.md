@@ -6,7 +6,7 @@ Just feel your emotion, we are here to express them ;)
 
 FEELit
         -A Keyboard App.
-In today’s world, social networks are the crucial part of our daily lives, which exposes us to the world. We tend to express our feelings, emotions to others through them. Now, we introduce our project FEELit, which improvise the chatting experience by taking EMOTICONS to the next level. FEELit is an added button to the keyboard, which generates the emoticons according to our mood at that point of time by pressing it :) . Now all it does in the background is, it takes the photo of the user and pulse rate of our heart and with the picture it gives a rough figure of the emotion which is later justified by the pulse rate. The pulse rate readings are sent by an external gadget attached to the user’s index finger. Let us go deep and know the working of the pulse sensor. 
+From the past decade, social networks have been a crucial part of our daily lives, which expresses us to the world. We tend to express our feelings, emotions to others through them. Now, we introduce our project FEELit, which improvise the chatting experience by taking EMOTICONS to the next level. FEELit is an added button to the keyboard, which generates the emoticons according to our mood at that point of time by pressing it :) . Now all it does in the background is, it takes the photo of the user and pulse rate of our heart and with the picture it gives a rough figure of the emotion which is later justified by the pulse rate. The pulse rate readings are sent by an external gadget attached to the user’s index finger. Let us go deep and know the working of the pulse sensor. 
 
 ## Basic Level
 ![](https://github.com/sannzay/FEELit/blob/master/images/1.f.png)
